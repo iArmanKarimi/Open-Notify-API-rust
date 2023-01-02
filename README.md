@@ -24,6 +24,12 @@ Current Location of the International Space Station:
 ```rust
 ```
 
+## References
+
+[Open Notify Website](http://open-notify.org/)
+
+[Official API documentation](http://open-notify.org/Open-Notify-API/)
+
 ## License
 
 [MIT](https://github.com/iArmanKarimi/Open-Notify-API-rust/blob/main/LICENSE)
